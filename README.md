@@ -52,4 +52,4 @@
 这个项目遵循 MIT 许可协议。你可以在 [LICENSE](https://github.com/your-username/your-project/blob/main/LICENSE) 文件中找到完整的许可协议条款。
 
 ## 开发和维护人员
-- [your-username](https://github.com/your-username) - 项目的创建者和主要维护者。
+- [t-r-r114](https://github.com/t-r-r114) - 项目的创建者和主要维护者。

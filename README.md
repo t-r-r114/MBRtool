@@ -1,4 +1,4 @@
-# T-r-r MBR Tool
+# t-r-r MBR Tool
 
 这是一个用于MBR（主引导记录）分析和操作的工具，由T-r-r个人开发。
 
@@ -56,4 +56,4 @@
 - [t-r-r114](https://github.com/t-r-r114) - 项目的创建者和主要维护者。
 
 ## 联系方式
-- t
+- t-r-r114: trrt10861@gmail.com

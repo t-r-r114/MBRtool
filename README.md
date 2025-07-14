@@ -50,7 +50,7 @@
 6. 恭喜！你的修改已经合并到主分支中。
 
 ## 许可协议
-这个项目遵循 MIT 许可协议。你可以在 [LICENSE](https://github.com/your-username/your-project/blob/main/LICENSE) 文件中找到完整的许可协议条款。
+这个项目遵循 MIT 许可协议。你可以在 [LICENSE](https://github.com/t-r-r114/MBRtool/blob/main/LICENSE) 文件中找到完整的许可协议条款。
 
 ## 开发和维护人员
 - [t-r-r114](https://github.com/t-r-r114) - 项目的创建者和主要维护者。
